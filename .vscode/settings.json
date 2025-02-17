@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Playtest Protocol.sln"
+    "dotnet.defaultSolution": "Playtest_Protocol.sln"
 }
